@@ -1,0 +1,5 @@
+{
+  "admin/test": "teste",
+  "store/test": "teste",
+  "store/countdown.invalidFormat": "Formato invalido. Use DD/MM/AAAA e HH:mm:ss."
+}

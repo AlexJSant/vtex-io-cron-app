@@ -1,0 +1,5 @@
+{
+  "cron-countdown": {
+    "component": "Countdown"
+  }
+}

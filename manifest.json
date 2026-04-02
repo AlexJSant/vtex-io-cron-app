@@ -1,0 +1,22 @@
+{
+  "vendor": "sunhouse",
+  "name": "cron-app",
+  "version": "0.0.1",
+  "title": "Cronometer Countdown App",
+  "description": "Cronometer Countdown App - block that counts down to a target date and time, with optional timezone and customizable separators.",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "styles": "2.x",
+    "store": "0.x"
+  },
+  "dependencies": {
+    "vtex.css-handles": "1.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
